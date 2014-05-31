@@ -1,0 +1,10 @@
+
+Cross-Validation
+The manner is which regression weights are computed guarantee that they will 
+provide an optimal fit with respect to the least square criterion for the 
+existing set of data. If a statistician wishes to predict a different set of 
+data, the regression weights are no longer optimal. There will be substantial 
+shrinkage in the value of R-squared if the weights estimated on one set of 
+data are used on a second set of data. The amount of shrinkage can be estimated 
+using a cross-validation procedure. The greater the error in the regression 
+procedure, the greater the shrinkage of the value of R-squared.

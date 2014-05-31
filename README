@@ -1,0 +1,10 @@
+Data: data_titanic3.csv
+Code: binClassComparision.R 
+
+
+Data : data_subSetData.csv
+Code : subSet.R
+
+
+Data : data_naiveBayes.R
+Code : naiveBayes_FlightDelays.R
